@@ -1,0 +1,21 @@
+from MuatDataset import MuatDataset
+from PeriksaNanDuplicate import PeriksaNaNDuplicate
+from HapusNaNDuplicate import HapusNaNDuplicate
+from DataTransformasi import DataTransformer
+from TextMining import SplitBahan, DataParsing, CaseFolding, RegexTransformation, PhraseDetection
+from TFIDF import TFIDFProcessor
+from KNNModel import KNNModel
+from Testing import RekomendasiResep
+
+MuatDataset
+PeriksaNaNDuplicate
+HapusNaNDuplicate
+DataTransformer
+SplitBahan
+DataParsing
+CaseFolding
+RegexTransformation
+PhraseDetection
+TFIDFProcessor
+KNNModel
+RekomendasiResep
